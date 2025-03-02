@@ -84,7 +84,7 @@ KTT Store là website bán quần áo thời trang trực tuyến được xây 
 
 1. Clone repository
 ```bash
-git clone https://github.com/WiniFyCode/KTTStore-React.git
+git clone https://github.com/nthanhtoan61/KTTStore-React.git
 cd KTTStore-React
 ```
 
@@ -226,5 +226,5 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 Dự án được phân phối dưới giấy phép MIT. Xem `LICENSE` để biết thêm thông tin.
 
 ## 📧 Liên hệ
-- Email: thanh23102005@gmail.com
-- GitHub: [@WiniFyCode](https://github.com/WiniFyCode)
+- Email: nthanhtoan61@gmail.com
+- GitHub: [@nthanhtoan61](https://github.com/nthanhtoan61)
